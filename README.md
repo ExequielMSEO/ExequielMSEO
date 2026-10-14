@@ -63,11 +63,11 @@ Ayudo a marcas y negocios a crecer en Google con estrategias de **SEO técnico, 
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📂 Proyecto destacado y lenguajes
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ExequielMSEO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExequielMSEO&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ExequielMSEO/CrawlerWeb"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ExequielMSEO&repo=CrawlerWeb&theme=tokyonight&hide_border=true" /></a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExequielMSEO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
